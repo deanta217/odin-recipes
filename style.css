@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-family: 'Verdana', 'Trebuchet MS', 'Times New Roman', 'sans-serif'
+}
+
+.link {
+    color:blue;
+    font-weight: bolder;
+    font-size: 36px;
+}
+
+.desc {
+    color:black;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
